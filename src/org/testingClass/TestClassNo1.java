@@ -15,6 +15,7 @@ public class TestClassNo1 {
 			System.out.println("Netural Number");
 
 		}
-			
+		 System.out.println("kamal");	
+		 System.out.println("git kamal");
 		}
 }
